@@ -11,6 +11,6 @@ The aspnet MVC diagram builder application is used to create the diagrams such a
 
 ### Run
 
-1. Clone this repository.
-2. Open the `.csproj` file in VS 2022.
-3. Click the green run button in the toolbar.
+- Clone the repository.
+- Open the DiagramBuilder.csproj file using Visual Studio.
+- Press Ctrl + F5 to run the sample.
